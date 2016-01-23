@@ -4,7 +4,13 @@ A template for starting [Cycle.js](http://cycle.js.org/) projects. I made this t
 
 Based on [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter).
 
-## Running in development
+## Start here
+
+* `git clone https://github.com/gcollazo/cyclejs-starter-kit.git your-project-name`
+* `cd your-project-name`
+* `npm install`
+
+## Running
 
 * `npm start`
 * Visit your app at [http://localhost:8080](http://localhost:8080)
