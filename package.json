@@ -1,0 +1,30 @@
+{
+  "name": "cyclejs-starter-kit",
+  "version": "1.0.0",
+  "description": "Starting point for Cycle.js apps",
+  "repository": "https://github.com/gcollazo/cyclejs-starter-kit",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "cyclejs",
+    "webpack",
+    "babel"
+  ],
+  "author": "Giovanni Collazo",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/core": "^6.0.0",
+    "@cycle/dom": "^9.0.1",
+    "rx": "^4.0.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "html-webpack-plugin": "^2.7.1",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
