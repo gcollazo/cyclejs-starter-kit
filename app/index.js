@@ -1,3 +1,5 @@
+import './style/app.css';
+
 import Rx from 'rx';
 import { run } from '@cycle/core';
 import { makeDOMDriver, h1 } from '@cycle/dom';
